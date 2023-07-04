@@ -1,0 +1,26 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#5cbb7d",
+    "activityBar.background": "#5cbb7d",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#8162bd",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#5cbb7d",
+    "statusBar.background": "#43a164",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#5cbb7d",
+    "statusBarItem.remoteBackground": "#43a164",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#43a164",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#43a16499",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#43a164",
+  "cSpell.words": [
+    "butãozin",
+    "listofposts"
+  ]
+}
